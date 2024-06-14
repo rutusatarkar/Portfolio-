@@ -748,6 +748,7 @@ main {
 .clients-item {
   min-width: 30%;
   scroll-snap-align: start;
+	color:white;
 }
 
 .clients-item img {
