@@ -1052,7 +1052,9 @@ main {
   #BLOG
 \*-----------------------------------*/
 
-.blog-posts { margin-bottom: 10px; }
+.blog-posts { margin-bottom: 10px; 
+	    color:white;
+	    }
 
 .blog-posts-list {
   display: grid;
